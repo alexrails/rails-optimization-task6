@@ -47,4 +47,5 @@
 ![sitespeed_finish.png](/public/reports/sitespeed_finish.png)
 
 ## CI
-Защитил оптимизацию, настроив CI Github Actions
+Защитил оптимизацию, настроив CI Github Actions:
+https://github.com/alexrails/rails-optimization-task6/actions/runs/13750720227
